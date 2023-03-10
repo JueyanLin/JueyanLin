@@ -1,0 +1,32 @@
+body {
+background-color:#FFA3C6;
+}
+
+nav {
+text-align:center;
+color:white;
+font-size:45px;
+font-family:Ariel;
+}
+
+h1 {
+background-color:#FFEEB0;
+font-size:50px;
+font-family:Ariel;
+color:#FFA3C6;
+text-align: center;
+}
+
+h2 {
+color:white;
+font-size:45px;
+font-family:Ariel;
+text-align: center;
+}
+
+ul {
+color:white;
+font-size:30px;
+font-family:Ariel;
+text-align: center;
+}
