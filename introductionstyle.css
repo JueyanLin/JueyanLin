@@ -1,0 +1,59 @@
+body {
+  background-color: #FFA3C6;
+  font-family: Arial;
+  color: black;
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  max-width: 200%;
+  height: auto;
+}
+
+header {
+  background-color: #FFEEB0;
+  text-align: center;
+  font-size: 50px;
+  font-family: Arial;
+  color: #FFA3C6;
+  padding: 30px;
+  margin: 0;
+}
+
+nav {
+  text-align: center;
+  color: white;
+  font-size: 30px;
+  font-family: Arial;
+  background-color: #FFEEB0;
+}
+
+nav a {
+  text-decoration: none;
+  color: #FFA3C6;
+}
+
+main {
+  background-color: white;
+  font-family: Arial;
+  color: black;
+  font-size: 20px;
+  padding: 30px;
+  margin: 0;
+}
+
+cite {
+  font-style: italic;
+  font-size: 16px;
+}
+
+h2 {
+  font-size: 50px;
+  font-family: Arial;
+  color: #FFEEB0;
+}
+
+a {
+  color: #FFA3C6;
+}
