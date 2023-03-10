@@ -1,0 +1,44 @@
+nav {
+text-align:center;
+color:white;
+font-size:30px;
+font-family:Ariel;
+}
+
+header h1 {
+background-color:#FFEEB0;
+font-size:50px;
+font-family:Ariel;
+color:#FFA3C6;
+text-align: center;
+}
+
+header h2 {
+color:white;
+font-size:45px;
+font-family:Ariel;
+text-align: center;
+}
+
+p {
+color:white;
+font-family:Ariel;
+text-align: center;
+}
+
+img {
+display:block;
+margin:auto;
+}
+
+cite {
+display:block;
+margin-top:10px;
+text-align:center;
+font-style:italic;
+}
+
+
+
+
+
