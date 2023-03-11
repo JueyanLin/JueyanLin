@@ -6,13 +6,13 @@ nav {
 text-align:center;
 color:white;
 font-size:45px;
-font-family:Ariel;
+font-family:"Times New Roman", serif;
 }
 
 h1 {
 background-color:#FFEEB0;
 font-size:50px;
-font-family:Ariel;
+font-family:"Times New Roman", serif;
 color:#FFA3C6;
 text-align: center;
 }
@@ -20,13 +20,13 @@ text-align: center;
 h2 {
 color:white;
 font-size:45px;
-font-family:Ariel;
+font-family:"Times New Roman", serif;
 text-align: center;
 }
 
 ul {
 color:white;
 font-size:30px;
-font-family:Ariel;
+font-family:"Times New Roman", serif;
 text-align: center;
 }
