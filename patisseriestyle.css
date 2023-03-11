@@ -7,14 +7,14 @@ body {
 a {
   color: white;
   font-size: 45px;
-  font-family: Ariel;
+  font-family: "Times New Roman", serif;
   margin-right: 20px;
 }
 
 h1 {
   background-color: #FFEEB0;
   font-size: 50px;
-  font-family: Ariel;
+  font-family: "Times New Roman", serif;
   color: #FFA3C6;
   margin: 15px;
   padding: 30px;
@@ -23,7 +23,7 @@ h1 {
 
 p {
   font-size: 40px;
-  font-family: Ariel;
+  font-family: "Times New Roman", serif;
   color: white;
   margin: 15px;
   padding: 30px;
@@ -32,7 +32,7 @@ p {
 
 dt {
   font-size: 30px;
-  font-family: Ariel;
+font-family: "Times New Roman", serif;
   text-align: center;
   color: white;
   margin-top: 30px;
@@ -40,7 +40,8 @@ dt {
 
 dd {
   font-size: 25px;
-  font-family: Arial;
+font-family: "Times New Roman", serif;
+
   margin-left: 40px;
   margin-bottom: 50px;
   line-height: 1.5;
